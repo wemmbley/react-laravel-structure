@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     @viteReactRefresh
-    @vite('resources/js/app.jsx')
+    @vite('resources/js/Pages/Home.jsx')
 </head>
 <body>
 <div id="app"></div>
